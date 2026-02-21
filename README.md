@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working as a Software Engineer at ONJI, building backend and frontend applications.  
+- 🌱 I’m currently learning advanced Spring Boot, React Native, and modern deployment practices.  
+- 👯 I’m looking to collaborate on full-stack projects, API development, and Iot integrations.  
+- 🤔 I’m looking for help with exploring AI-powered applications and scalable backend architectures.  
+- 📫 How to reach me: [ahlem.boubakri18@gmail.com] | [ahlem-boubakri-55878a252]  
+- ⚡ Fun fact: I’m a self-managed professional who enjoys coordinating tasks, facilitating team interactions, and delivering structured, real-world software solutions.
