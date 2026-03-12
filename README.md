@@ -1,5 +1,6 @@
 ## Hi there 👋,    I am Ahlem BOUBAKRI
 
+![Profile views](https://komarev.com/ghpvc/?username=ahlemboubakri&color=blue)
 <!--
 **ahlemboubakri/ahlemboubakri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
