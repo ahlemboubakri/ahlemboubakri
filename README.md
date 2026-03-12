@@ -27,18 +27,27 @@ Here are some ideas to get you started:
 
   * **Email:** [ahlem.boubakri18@gmail.com](mailto:ahlem.boubakri18@gmail.com)
   * **LinkedIn:** [Ahlem Boubakri](https://www.linkedin.com/in/ahlem-boubakri-55878a252/)
+  
+# 💻 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 #  📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahlemboubakri&show_icons=true&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahlemboubakri&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="400"/>
 </p>
-
  #  💻 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahlemboubakri&layout=compact&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahlemboubakri&layout=compact&theme=github_dark&hide_border=true" width="400"/>
 </p>
 
  #  📈 Contribution Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahlemboubakri&theme=github-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahlemboubakri&theme=github-dark&hide_border=true" width="600"/>
 </p>
