@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 🚀 Software Engineer Intern at ONJI, contributing to backend and frontend development while also leading the development team. 
 
-👩‍💻 **About Me**
+#    👩‍💻 **About Me**
 
 - 🔭 Currently working on full-stack development projects at ONJI
 - 🌱 Learning Advanced Spring Boot, React Native, and modern deployment practices
@@ -23,22 +23,22 @@ Here are some ideas to get you started:
 - 🤖 Interested in AI-powered applications and scalable backend architectures
 - ⚡ I enjoy organizing tasks, supporting teamwork, and building practical software solutions
   
-  📫 **Contact**
+ #  📫 **Contact**
 
 * **Email:** [ahlem.boubakri18@gmail.com](mailto:ahlem.boubakri18@gmail.com)
 * **LinkedIn:** [Ahlem Boubakri](https://www.linkedin.com/in/ahlem-boubakri-55878a252/)
 
-📊 **GitHub Statistics**
+#📊 **GitHub Statistics**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahlemboubakri&show_icons=true&theme=github_dark"/>
 </p>
 
- 💻 **Most Used Languages**
+ #💻 **Most Used Languages**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahlemboubakri&layout=compact&theme=github_dark"/>
 </p>
 
- 📈 **Contribution Activity Graph**
+ #📈 **Contribution Activity Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahlemboubakri&theme=github-dark"/>
 </p>
