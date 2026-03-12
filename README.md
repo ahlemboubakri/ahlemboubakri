@@ -31,23 +31,24 @@ Here are some ideas to get you started:
 # 💻 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/springboot.svg" alt="Spring Boot" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/django.svg" alt="Django" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" alt="Docker" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" height="30"/>
 </p>
 
 #  📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahlemboubakri&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="400"/>
 </p>
- #  💻 Most Used Languages
+
+# 💻 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahlemboubakri&layout=compact&theme=github_dark&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahlemboubakri&layout=compact&theme=github_dark&hide_border=true" width="200"/>
 </p>
 
  #  📈 Contribution Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahlemboubakri&theme=github-dark&hide_border=true" width="600"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahlemboubakri&theme=github-dark&hide_border=true" width="500"/>
 </p>
