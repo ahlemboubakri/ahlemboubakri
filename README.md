@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🚀 Software Engineer Intern at ONJI, contributing to backend and frontend development while also leading the development team. 
+🚀 Software Engineer at ONJI, contributing to backend and frontend development while also leading the development team. 
 
 #  👩‍💻 About Me
 
   - 🔭 Currently working on full-stack development projects at ONJI
   - 🌱 Learning Advanced Spring Boot, React Native, and modern deployment practices
-  - 👯 Open to collaborating on Full-Stack projects, API development, and IoT integrations
+  - 👯 Open to collaborating on Full-Stack projects and API development
   - 🤖 Interested in AI-powered applications and scalable backend architectures
   - ⚡ I enjoy organizing tasks, supporting teamwork, and building practical software solutions
   
